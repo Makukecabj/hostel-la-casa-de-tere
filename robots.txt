@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hostel-la-casa-de-tere.vercel.app/sitemap.xml
